@@ -40,15 +40,7 @@ Antes de iniciar este desafío deberás crear una base de datos y una tabla con 
 
 Usa las siguientes imágenes como referencia de lo que debes lograr en el desarrollo de este desafío.
 
-**Nuevo estudiante:**
-
-**Consulta: ![](./readme/Aspose.Words.7852d037-6df8-457a-b6be-d4ee0cd282a0.002.jpeg)![](./readme/Aspose.Words.7852d037-6df8-457a-b6be-d4ee0cd282a0.003.jpeg)![](./readme/Aspose.Words.7852d037-6df8-457a-b6be-d4ee0cd282a0.004.jpeg)![](./readme/Aspose.Words.7852d037-6df8-457a-b6be-d4ee0cd282a0.005.jpeg)**
-
-**Editar estudiante: ![](./readme/Aspose.Words.7852d037-6df8-457a-b6be-d4ee0cd282a0.006.jpeg)**
-
-**Consultar por rut:**
-
-**Eliminar registro de estudiante:**
+![](./readme/Aspose.Words.7852d037-6df8-457a-b6be-d4ee0cd282a0.004.jpeg)
 
 Requerimientos
 
